@@ -253,7 +253,7 @@ Full Package:    6,450 improved  |   8,441 worsened
 ```
 Team PG/
 ├── README.md                              ← You are here
-├── ilab_Hackathon (1).ipynb              ← Full analysis notebook
+├── Python Codes.ipynb              ← Full analysis notebook
 ├── finaccess2024_datasprint.xlsx         ← Raw dataset
 ├── generate_visualizations.py            ← Chart generation script
 ├── ThePGs_DataSprint2026.pptx ← 7-slide presentation
