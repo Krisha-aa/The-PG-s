@@ -255,7 +255,6 @@ Team PG/
 ├── README.md                              ← You are here
 ├── Python Codes.ipynb              ← Full analysis notebook
 ├── finaccess2024_datasprint.xlsx         ← Raw dataset
-├── generate_visualizations.py            ← Chart generation script
 ├── ThePGs_DataSprint2026.pptx ← 7-slide presentation
 ├── visualizations/                        ← High-res charts (PNG)
 │   ├── Barriers to Financial Services.jpeg
