@@ -541,9 +541,6 @@ https://github.com/ThePGs/DataSprint2026
 | 🚨 At-Risk Identified | **10,981** |
 | 💡 Policy Interventions | **5** |
 | 🌍 Counties Covered | **47** |
-| 📊 Visualizations | **6 Publication-Ready** |
-| 💻 Code Lines | **1,500+** |
-| ⏱️ Processing Time | **< 2 minutes** |
 
 </div>
 
